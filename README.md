@@ -12,4 +12,4 @@ Download the model and Jupyter-notebook from the following Dropbox link
 
 Reference:
 
-    Alfred Wright and Jawad Fayaz (under review). “Structured Generative Modelling of Earthquake Response Spectra with Hierarchical Latent Variables in Hyperbolic Geometry”
+    Wright, A., Fayaz, J. Structured generative modelling of earthquake response spectra with hierarchical latent variables in hyperbolic geometry. Sci Rep 16, 906 (2026). https://doi.org/10.1038/s41598-025-29902-6
